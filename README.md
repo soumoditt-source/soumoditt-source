@@ -14,78 +14,88 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> I build systems that turn data into decisions.
 # Soumoditya Das ⚡
 
-![retro](https://media.giphy.com/media/3o7TKz9bF4h5b8t2Zy/giphy.gif)
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
-Quantitative Research Engineer focused on **market microstructure, low-latency systems, and statistical modeling**.
+Quantitative Research Engineer | AI/ML Engineer | Full-Stack Systems Builder  
 
 📍 Kolkata, India (On-site ready)  
-⚡ C++ + Python + real-time systems  
-📊 Order book signals, regression, backtesting  
-🚀 Building production-grade quant research infrastructure  
+⚡ C++ + Python + Distributed Systems  
+📊 Quant Research + GenAI + Computer Vision  
+🚀 30+ deployed systems | National-level finalist  
 
 ---
 
 ## 🧠 What I Do
 
-- Market microstructure modeling (OBI, VPIN, liquidity regimes)
-- Low-latency computation using C++ (pybind11)
-- Event-driven backtesting (fees, slippage, latency, execution modeling)
-- Statistical signal modeling (regression, IC evaluation)
-- Real-time tick data processing (WebSockets)
+I build systems that operate across **research → modeling → production**:
+
+- Market microstructure & signal modeling (OBI, VPIN, execution dynamics)
+- Statistical modeling (regression, validation, IC analysis)
+- Low-latency systems (C++ + pybind11)
+- AI/ML systems (CV, NLP, RL, GenAI)
+- Full-stack platforms (real-time + scalable)
+- Distributed systems (Kafka, cloud infra, APIs)
 
 ---
 
-## 🔬 Featured Project
+## 🔬 Flagship — QuantEdge
 
-### QuantEdge — Microstructure Intelligence Platform  
 🔗 https://github.com/soumoditt-source/QUANT-EDGE-SYSTEM  
 
-![quant](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
+![tech](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
 
-- C++ signal engine (<250µs latency)
+A **C++ + Python quantitative research platform** for market microstructure:
+
+- Sub-250µs C++ signal engine (pybind11)
 - Order Book Imbalance (OBI), VPIN, VWAP deviation
-- Liquidity Regime Detection (K-Means clustering)
-- Regression model for short-horizon prediction
-- Event-driven backtesting with execution realism
+- Liquidity regime detection (K-Means clustering)
+- Regression-based short-horizon prediction
+- Event-driven backtesting:
+  - fees, slippage, latency, queue modeling
 - Python vs C++ benchmarking (10× speedup)
-- Live streaming order book visualization
+- Real-time tick + order book streaming
 
 ---
 
-## 📈 Quant Research Focus
-
-- Order flow imbalance predictive power
-- Volume toxicity (VPIN) and adverse selection
-- Execution under latency and queue constraints
-- Stability of signals in high-frequency environments
-
----
-
-## 🧪 High-Impact Projects
+## 🧪 AI / ML & Systems Projects
 
 ### MuleHunter.AI — RBI National Fraud Challenge (Finalist)
-- Processed 17GB+ financial data (64K accounts)
-- SHAP-based explainable ML
-- Graph-based fraud detection and anomaly pipelines
+- 17GB+ financial data (64K accounts)
+- SHAP explainability + anomaly detection
+- Graph-based intelligence pipelines
 
 ### Intelligent Document AI — IDFC Convolve (Finalist, IIT KGP)
-- Multilingual OCR + layout intelligence
-- CNN-based detection + fuzzy entity matching
-- ≥95% accuracy at <$0.01 per document
+- OCR + layout intelligence + CNN detection
+- ≥95% accuracy, <$0.01 per document
 
 ### PharmaOS — Meta × PyTorch Hackathon
-- Reinforcement learning for drug discovery
-- RDKit reward optimization (QED, Lipinski, SA)
+- RL-based molecular generation (RDKit)
+- Multi-objective reward optimization
 
-### AgentMesh — Multi-Agent AI System
-- Distributed AI agents with blockchain integration
-- Multi-model orchestration (Gemini → Claude → Mistral)
+### AgentMesh — Distributed AI System
+- Multi-agent architecture + blockchain layer
+- Multi-model orchestration (Gemini, Claude, Mistral)
 
-### AeroVital Navigator — AI Routing System
-- AQI-aware routing using real-time environmental data
-- Pathway streaming + RAG pipeline
+### AeroVital Navigator — AI Routing Platform
+- AQI-aware routing + real-time environmental data
+- Streaming RAG + OSRM integration
+
+### Anchor AI — Personal Finance OS
+- Agentic system: profiling → planning → validation
+- Tax-aware optimization + voice interface
+
+---
+
+## 🧱 Full-Stack & Systems Engineering
+
+- Built scalable SaaS platforms (React, Next.js, Node.js, FastAPI)
+- Designed Kafka-based streaming pipelines
+- Developed real-time APIs & ML inference systems
+- Deployed cloud infra (AWS, GCP) with 40–60% latency reduction
+- Built end-to-end systems from UI → backend → ML → infra
 
 ---
 
@@ -93,34 +103,39 @@ Quantitative Research Engineer focused on **market microstructure, low-latency s
 
 **Languages:** Python, C++, TypeScript, SQL  
 **Quant/Data:** NumPy, Pandas, SciPy, scikit-learn  
+**AI/ML:** PyTorch, TensorFlow, OpenCV, RL, GenAI  
 **Systems:** FastAPI, Kafka, WebSockets, Docker, Linux  
-**AI/ML:** PyTorch, TensorFlow, OpenCV  
+**Frontend:** React, Next.js, Tailwind  
 **Cloud:** AWS, GCP, Vercel  
-
----
-
-## 🧱 Systems & Engineering
-
-- Built async financial pipelines (Kafka + Spring Boot)
-- Designed cloud infra with 40–60% latency reduction
-- Developed scalable ML APIs and streaming systems
-- Experience with real-time data ingestion and processing
 
 ---
 
 ## 🏆 Achievements
 
-- Finalist — RBI National Fraud Prevention Challenge  
-- Finalist — IDFC Convolve (IIT Kharagpur)  
-- Grand Finalist — Microsoft & Google Cloud Hackathon  
-- Top 3000 / 1.5L — EY Techathon  
+- 🥇 FINALIST — RBI National Fraud Prevention Challenge  
+- 🥇 FINALIST — IDFC Convolve (IIT Kharagpur, 9 IITs)  
+- 🥇 GRAND FINALIST — Microsoft & Google Cloud Hackathon  
+- 🥈 2nd Runner-Up — Jadavpur University Case Study (2 Medals)  
+- 🏅 Rank #6 — IIEST Scintillations Case X  
+- 🏅 PRE-FINALIST — Nudge Studio Challenge (Anchor AI)  
+- 🏅 TOP 3000 / 1.5 LAKH — EY Techathon  
+- 🏅 QUALIFIED — ET GenAI Round 2  
+
+---
+
+## 📈 Current Focus
+
+- Microstructure signal stability  
+- Execution-aware modeling  
+- Low-latency system optimization  
+- Bridging research → production  
 
 ---
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=soumoditt-source&show_icons=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumoditt-source&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=soumoditt-source&show_icons=true&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumoditt-source&layout=compact&theme=tokyonight)
 
 ---
 
@@ -131,6 +146,6 @@ Quantitative Research Engineer focused on **market microstructure, low-latency s
 
 ---
 
-![retro2](https://media.giphy.com/media/xT0GqeSlGSRQutT6rC/giphy.gif)
+![retro](https://media.giphy.com/media/3o7TKz9bF4h5b8t2Zy/giphy.gif)
 
 > I build systems that turn data into decisions.
