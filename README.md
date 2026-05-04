@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 > I build systems that turn data into decisions.
 # Soumoditya Das ⚡
 
-![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![header](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 Quantitative Research Engineer | AI/ML Engineer | Full-Stack Systems Builder  
 
@@ -30,14 +30,14 @@ Quantitative Research Engineer | AI/ML Engineer | Full-Stack Systems Builder
 
 ## 🧠 What I Do
 
-I build systems that operate across **research → modeling → production**:
+I design and build systems across **research → modeling → production**:
 
-- Market microstructure & signal modeling (OBI, VPIN, execution dynamics)
-- Statistical modeling (regression, validation, IC analysis)
-- Low-latency systems (C++ + pybind11)
-- AI/ML systems (CV, NLP, RL, GenAI)
-- Full-stack platforms (real-time + scalable)
-- Distributed systems (Kafka, cloud infra, APIs)
+- Market microstructure & signal modeling (OBI, VPIN, execution dynamics)  
+- Statistical modeling (regression, validation, IC analysis)  
+- Low-latency systems (C++ + pybind11)  
+- AI/ML systems (CV, NLP, RL, GenAI)  
+- Full-stack real-time platforms  
+- Distributed systems (Kafka, cloud infra, APIs)  
 
 ---
 
@@ -45,57 +45,52 @@ I build systems that operate across **research → modeling → production**:
 
 🔗 https://github.com/soumoditt-source/QUANT-EDGE-SYSTEM  
 
-![tech](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
+![project](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
-A **C++ + Python quantitative research platform** for market microstructure:
+A **C++ + Python microstructure research platform**:
 
-- Sub-250µs C++ signal engine (pybind11)
-- Order Book Imbalance (OBI), VPIN, VWAP deviation
-- Liquidity regime detection (K-Means clustering)
-- Regression-based short-horizon prediction
+- Sub-250µs C++ signal engine (pybind11)  
+- Order Book Imbalance (OBI), VPIN, VWAP deviation  
+- Liquidity regime detection (K-Means clustering)  
+- Regression-based short-horizon prediction  
 - Event-driven backtesting:
-  - fees, slippage, latency, queue modeling
-- Python vs C++ benchmarking (10× speedup)
-- Real-time tick + order book streaming
+  - fees, slippage, latency, queue modeling  
+- Python vs C++ benchmarking (10× speedup)  
+- Real-time tick + order book streaming  
 
 ---
 
 ## 🧪 AI / ML & Systems Projects
 
-### MuleHunter.AI — RBI National Fraud Challenge (Finalist)
-- 17GB+ financial data (64K accounts)
-- SHAP explainability + anomaly detection
-- Graph-based intelligence pipelines
+- **MuleHunter.AI** — RBI National Fraud Challenge Finalist  
+  - 17GB+ financial data (64K accounts)  
+  - SHAP explainability + anomaly detection  
 
-### Intelligent Document AI — IDFC Convolve (Finalist, IIT KGP)
-- OCR + layout intelligence + CNN detection
-- ≥95% accuracy, <$0.01 per document
+- **Intelligent Document AI** — IDFC Convolve Finalist (IIT KGP)  
+  - OCR + layout intelligence + CNN detection  
+  - ≥95% accuracy at <$0.01 per document  
 
-### PharmaOS — Meta × PyTorch Hackathon
-- RL-based molecular generation (RDKit)
-- Multi-objective reward optimization
+- **PharmaOS** — Meta × PyTorch Hackathon  
+  - Reinforcement learning for drug discovery (RDKit)  
 
-### AgentMesh — Distributed AI System
-- Multi-agent architecture + blockchain layer
-- Multi-model orchestration (Gemini, Claude, Mistral)
+- **AgentMesh** — Distributed Multi-Agent System  
+  - Multi-model orchestration (Gemini, Claude, Mistral)  
 
-### AeroVital Navigator — AI Routing Platform
-- AQI-aware routing + real-time environmental data
-- Streaming RAG + OSRM integration
+- **AeroVital Navigator** — AI Routing Platform  
+  - AQI-aware routing + real-time environmental data  
 
-### Anchor AI — Personal Finance OS
-- Agentic system: profiling → planning → validation
-- Tax-aware optimization + voice interface
+- **Anchor AI** — Personal Finance OS  
+  - Agentic pipeline: profiling → planning → validation  
 
 ---
 
 ## 🧱 Full-Stack & Systems Engineering
 
-- Built scalable SaaS platforms (React, Next.js, Node.js, FastAPI)
-- Designed Kafka-based streaming pipelines
-- Developed real-time APIs & ML inference systems
-- Deployed cloud infra (AWS, GCP) with 40–60% latency reduction
-- Built end-to-end systems from UI → backend → ML → infra
+- Built scalable SaaS platforms (React, Next.js, Node.js, FastAPI)  
+- Designed Kafka-based streaming pipelines  
+- Developed real-time APIs & ML inference systems  
+- Deployed cloud infrastructure (AWS, GCP)  
+- Achieved 40–60% latency reduction in distributed systems  
 
 ---
 
@@ -114,7 +109,7 @@ A **C++ + Python quantitative research platform** for market microstructure:
 
 - 🥇 FINALIST — RBI National Fraud Prevention Challenge  
 - 🥇 FINALIST — IDFC Convolve (IIT Kharagpur, 9 IITs)  
-- 🥇 GRAND FINALIST — Microsoft & Google Cloud Hackathon  
+- 🥇 GRAND FINALIST — Microsoft × Google Cloud Hackathon  
 - 🥈 2nd Runner-Up — Jadavpur University Case Study (2 Medals)  
 - 🏅 Rank #6 — IIEST Scintillations Case X  
 - 🏅 PRE-FINALIST — Nudge Studio Challenge (Anchor AI)  
@@ -146,6 +141,8 @@ A **C++ + Python quantitative research platform** for market microstructure:
 
 ---
 
-![retro](https://media.giphy.com/media/3o7TKz9bF4h5b8t2Zy/giphy.gif)
+![footer](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-> I build systems that turn data into decisions.
+> “With great power comes great responsibility.” — Spider-Man  
+>  
+> I build systems that don’t just work — they hold under pressure.
